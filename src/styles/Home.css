@@ -1,0 +1,29 @@
+.button:hover {
+    box-shadow: 0px 0px 22px hsl(150, 100%, 66%);
+}
+
+.cardSize {
+    min-height: 350px;
+    width: 550px;
+}
+
+.desktopImg {
+    display: block;
+}
+
+.mobileImg {
+    display: none;
+}
+
+@media (max-width: 578px) {
+    .cardSize {
+        min-height: 400px;
+        width: 350px;
+    }
+    .desktopImg {
+        display: none;
+    }
+    .mobileImg {
+        display: block;
+    }
+}
