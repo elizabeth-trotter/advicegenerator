@@ -6,10 +6,10 @@
 
 This was a single day challenge where I built out an advice generator with `TypeScript` and `React` based on a given prototype.
 
-***Peer Review:***
-
-Name: Aiden Foo
-Comment(s): The website is neat and tidy and works well. The site looks like the template files and is responsive as well. The ReadMe is also very well formatted. Good work.
+> **Peer Review:**
+> 
+> Name: Aiden Foo
+> Comment(s): The website is neat and tidy and works well. The site looks like the template files and is responsive as well. The ReadMe is also very well formatted. Good work.
 
 ***Key Features:***
 
@@ -22,4 +22,4 @@ Comment(s): The website is neat and tidy and works well. The site looks like the
 ## Desktop Prototype
 
 ![Desktop Prototype](./template/design/active-states.jpg)
-<p align="left">Figure 1: Desktop prototype with hover effect active</p>
+<p align="right">Figure 1: Desktop prototype with hover effect active</p>
