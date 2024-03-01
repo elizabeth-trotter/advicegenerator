@@ -7,8 +7,8 @@
 This was a single day challenge where I built out an advice generator with `TypeScript` and `React`.
 
 **Peer Review:**
-Name:
-Comment(s):
+Name: Aiden Foo
+Comment(s): The website is neat and tidy and works well. The site looks like the template files and is responsive as well. The ReadMe is also very well formatted. Good work.
 
 ***Key Features:***
 
