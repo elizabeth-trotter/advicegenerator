@@ -11,6 +11,7 @@ This was a single day challenge where I built out an advice generator with `Type
 - [x] Hover effect when button is active
 - [x] Ability to generate new random advice on button click
 - [x] Responsive for Desktop and Mobile
+- [x] Fetching data from Advice API
 &nbsp;
 
 
